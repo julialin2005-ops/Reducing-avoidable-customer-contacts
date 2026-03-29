@@ -1,11 +1,12 @@
 # Reducing Avoidable Customer Contacts  
 *A CX transformation case study using Zendesk and VoC analysis*
 
+> ~68% of customer support demand is preventable — driven primarily by UX and process failures, not product issues.
 ---
 
 ## Executive Summary
 
-Customer support demand is often treated as an operational issue. However, this analysis shows that a significant portion is driven by preventable customer experience failures.
+Customer support demand is often treated as an operational issue. This analysis shows it is primarily a symptom of upstream experience failures.
 
 - ~**68% of tickets are avoidable**  
 - **UX/process failures (54%)** are the primary driver  
@@ -24,6 +25,7 @@ Customer support demand is often treated as an operational issue. However, this 
 
 > ~68% of support demand is preventable, primarily driven by UX and process failures, not product issues.
 
+> UX / process failures account for over half of avoidable contacts, representing the largest opportunity to reduce support demand.
 
 ## Key Insights
 
@@ -65,15 +67,15 @@ This positions CX as a driver of business performance, not just service operatio
 
 ## Actions Taken
 
-- Standardized escalation rules to reduce delays  
-- Eliminated repeated information requests  
-- Improved first-response quality  
-- Clarified billing and pre-sales communication  
+- Introduced standardized escalation triggers to reduce delays  
+- Consolidated information requests into first-response templates  
+- Improved response quality through clear handling standards  
+- Clarified billing and pre-sales communication to reduce expectation mismatch  
 
-Result:
-- Reduced avoidable contacts  
-- Improved first-response quality and consistency
-- Increased customer satisfaction (CSAT)  
+Result:  
+- Reduced avoidable contacts by addressing UX and process failures  
+- Improved response consistency through standardized workflows  
+- Increased customer satisfaction (CSAT) by reducing repeated interactions and delays  
 
 
 ## Final Insight
