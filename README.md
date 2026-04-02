@@ -1,7 +1,7 @@
 # Reducing Avoidable Customer Contacts  
 *A CX transformation case study using Zendesk and VoC analysis*
 
-> ~68% of customer support demand is preventable — driven primarily by UX and process failures, not product issues.
+> ~68% of customer support demand is preventable — driven primarily by service and process failures, not product issues.
 ---
 
 ## Executive Summary
@@ -9,7 +9,7 @@
 Customer support demand is often treated as an operational issue. This analysis shows it is primarily a symptom of upstream experience failures.
 
 - ~**68% of tickets are avoidable**  
-- **UX/process failures (54%)** are the primary driver  
+- **Service/process failures (54%)** are the primary driver  
 - **Billing and pre-sales issues drive volume**, but not dissatisfaction  
 - **Low CSAT is driven by how issues are handled**, not by issue type alone  
 
@@ -23,16 +23,16 @@ Customer support demand is often treated as an operational issue. This analysis 
 
 ![Root Cause Breakdown](images/root_cause.png)
 
-> ~68% of support demand is preventable, primarily driven by UX and process failures, not product issues.
+> ~68% of support demand is preventable, primarily driven by service and process failures, not product issues.
 
-> UX / process failures account for over half of avoidable contacts, representing the largest opportunity to reduce support demand.
+> Service / process failures account for over half of avoidable contacts, representing the largest opportunity to reduce support demand.
 
 ## Key Insights
 
 ### 1. Majority of Demand Is Preventable
 
 Most support demand is caused by systemic experience breakdowns, not isolated incidents.
-- UX / process failures  
+- Service / process failures  
 - expectation mismatch  
 - product defects  
 
@@ -41,7 +41,7 @@ Most support demand is caused by systemic experience breakdowns, not isolated in
 ### 2. Volume Does Not Equal Impact
 
 - Billing & pre-sales → highest volume  
-- UX/process failures → lowest CSAT  
+- Service/process failures → lowest CSAT  
 
 > High-volume issues are not necessarily the most damaging; handling quality determines customer satisfaction.
 
@@ -59,7 +59,7 @@ Customers are most frustrated by:
 ## Business Impact
 
 Reducing avoidable contacts directly improves both customer experience and operational efficiency.
-- Reduced avoidable contacts by addressing UX and process failures
+- Reduced avoidable contacts by addressing service and process failures
 - Improved response consistency through standardized workflows
 - Increased customer satisfaction (CSAT) by reducing repeated interactions and delays  
 
@@ -73,7 +73,7 @@ This positions CX as a driver of business performance, not just service operatio
 - Clarified billing and pre-sales communication to reduce expectation mismatch  
 
 Result:  
-- Reduced avoidable contacts by addressing UX and process failures  
+- Reduced avoidable contacts by addressing service and process failures  
 - Improved response consistency through standardized workflows  
 - Increased customer satisfaction (CSAT) by reducing repeated interactions and delays  
 
@@ -87,5 +87,5 @@ Customer support is not just a resolution function — it is a diagnostic system
 
 - Dataset: 545 Zendesk tickets  
 - Root cause classification based on CX taxonomy  
-- Avoidable contact defined as preventable through UX, process, or communication improvements  
+- Avoidable contact defined as preventable through service process, or communication improvements  
 - Validation conducted via manual case review  
