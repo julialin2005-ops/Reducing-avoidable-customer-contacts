@@ -1,7 +1,7 @@
 # Reducing Avoidable Customer Contacts  
 *A CX transformation case study using Zendesk and VoC analysis*
 
-> ~68% of customer support demand is preventable — primarily driven by service delivery and process failures rather than product issues.
+> ~68% of customer support demand is preventable — driven by service and process failures, not product issues.
 
 ---
 
