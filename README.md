@@ -21,7 +21,7 @@ Customer support demand is often treated as an operational issue. This analysis 
 
 ![Avoidable Contacts](images/avoidable.png)
 
-![Root Cause Breakdown](images/root_cause.png)
+![Root Cause Breakdown](images/root_cause_1.png)
 
 > ~68% of support demand is preventable, primarily driven by service and process failures, not product issues.
 
