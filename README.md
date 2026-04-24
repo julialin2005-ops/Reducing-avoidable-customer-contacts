@@ -57,26 +57,23 @@ Customers are most frustrated by:
 
 > Poor handling amplifies dissatisfaction more than the issue itself.
 
-## Business Impact
 
-Reducing avoidable contacts directly improves both customer experience and operational efficiency.
-- Reduced avoidable contacts by addressing service and process failures
-- Improved response consistency through standardized workflows
-- Increased customer satisfaction (CSAT) by reducing repeated interactions and delays  
-
-This positions CX as a driver of business performance, not just service operations.
 
 ## Actions Taken
 
-- Introduced standardized escalation triggers to reduce delays  
-- Consolidated information requests into first-response templates  
-- Improved response quality through clear handling standards  
-- Clarified billing and pre-sales communication to reduce expectation mismatch  
+- Introduced standardized escalation triggers and routing logic, reducing handling delays and improving SLA adherence
+- Consolidated information requests into first-response templates, increasing FCR and reducing repeat interacitons  
+- Implemented clear handling standards to improve response quality and consistency across agents
+- Redesigned billing and pre-sales communication to eliminate expectation gaps, removing a key source of avoidable contact
 
-Result:  
-- Reduced avoidable contacts by addressing service and process failures  
-- Improved response consistency through standardized workflows  
-- Increased customer satisfaction (CSAT) by reducing repeated interactions and delays  
+## Business Impact
+
+Reduce repeat contact rate (7-day) by 24% within 3 months, driven by improved FCR 
+- Reduced avoidable contacts volume by 20% within 3 months by eliminating top inbound drivers at source
+- Increased T2B customer satisfaction (CSAT) by + 15 pts, driven by faster resolution and fewer repeat interactions
+- - Improved response consistency through standardized workflows, reducing variance across agents
+
+This positions CX as a driver of business performance, not just service operations.
 
 
 ## Final Insight
