@@ -68,10 +68,10 @@ Customers are most frustrated by:
 
 ## Business Impact
 
-Reduce repeat contact rate (7-day) by 24% within 3 months, driven by improved FCR 
+- Reduce repeat contact rate (7-day) by 24% within 3 months, driven by improved FCR 
 - Reduced avoidable contacts volume by 20% within 3 months by eliminating top inbound drivers at source
 - Increased T2B customer satisfaction (CSAT) by + 15 pts, driven by faster resolution and fewer repeat interactions
-- - Improved response consistency through standardized workflows, reducing variance across agents
+- Improved response consistency through standardized workflows, reducing variance across agents
 
 This positions CX as a driver of business performance, not just service operations.
 
